@@ -6,14 +6,14 @@ import (
 	"os"
 )
 
-func ReadFile() error {
+func ReadFile() (Message,error) {
 
 	// open data file
 	dataFile2, err := os.Open("integerdata.gob")
 
 	if err != nil {
 		// fmt.Println(err)
-		return err
+		return Message{},err
 	}
 
 	var mew Message
@@ -29,6 +29,6 @@ func ReadFile() error {
 
 	// fmt.Println(mew)
 
-	return nil
+	return mew,nil
 
 }

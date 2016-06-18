@@ -12,7 +12,7 @@ import (
 
 func main() {
 
-	if err := file.ReadFile(); err != nil {
+	if _,err := file.ReadFile(); err != nil {
 
 		// Ask input from user
 		fmt.Println("Enter your Email ID:")
