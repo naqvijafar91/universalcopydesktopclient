@@ -5,6 +5,11 @@ that text anywhere in your laptop using the Desktop Client.
 
 Note:This is the desktop client for Universal Copy Paste. 
 
+This project requires 3 projects to run:
+1-**[Desktop Client](https://github.com/naqvijafar91/universalcopydesktopclient)**
+2-**[Android Application](https://github.com/naqvijafar91/universalcopyandroidclient)**
+3-**[Server](https://github.com/naqvijafar91/unviersalcopyserver)**
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -48,7 +53,7 @@ Double Click the file or run it from command prompt
 
 Steps:
 1-Create your Account using the Android application(Registration Feature yet to be built in that, Steps for Registration given on 
-Server's [github]() page)
+Server's [github](https://github.com/naqvijafar91/unviersalcopyserver) page)
 2-Login into the Android app
 3-Run this desktop Client
 4-Enter your email id and password for Universal Copy Paste
