@@ -10,6 +10,10 @@ This project requires 3 projects to run:
 2-**[Android Application](https://github.com/naqvijafar91/universalcopyandroidclient)**
 3-**[Server](https://github.com/naqvijafar91/unviersalcopyserver)**
 
+Get the compiled Android and Desktop Client here [Universal Copy Paste Beta 0.01](https://dl.dropboxusercontent.com/u/46536450/UniversalcopyclientsBuild0.01.zip), To run these executables you will need to create your Account on the
+live server by following the registration steps on this page [Server](https://github.com/naqvijafar91/unviersalcopyserver)
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
