@@ -1,6 +1,9 @@
 # Universal Copy Paste Desktop Client
 
-One Paragraph of project description goes here
+Now Select and copy anything on your Android Device(Long press on the text inside any app and select copy), and then paste
+that text anywhere in your laptop using the Desktop Client.
+
+Note:This is the desktop client for Universal Copy Paste. 
 
 ## Getting Started
 
